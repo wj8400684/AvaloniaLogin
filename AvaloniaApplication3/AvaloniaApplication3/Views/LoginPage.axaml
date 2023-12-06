@@ -1,0 +1,37 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="AvaloniaApplication3.Views.LoginPage"
+             Theme="{StaticResource NavPage}">
+    <StackPanel Orientation="Vertical"
+                Spacing="10"
+                Margin="20">
+
+        <DockPanel>
+            <TextBlock
+                Text="账号:"
+                VerticalAlignment="Center" />
+            <TextBox
+                VerticalAlignment="Center"
+                Margin="10,0" />
+        </DockPanel>
+
+        <DockPanel>
+            <TextBlock
+                Text="密码:"
+                VerticalAlignment="Center" />
+            <TextBox
+                VerticalAlignment="Center"
+                Margin="10,0" />
+        </DockPanel>
+
+        <StackPanel Orientation="Horizontal" Spacing="20"
+                    HorizontalAlignment="Center">
+            <Button Content="登陆" />
+            <Button Content="注册" />
+        </StackPanel>
+
+    </StackPanel>
+</UserControl>

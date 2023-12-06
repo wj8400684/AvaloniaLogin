@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="AvaloniaApplication3/AvaloniaApplication3/App.axaml" value="AvaloniaApplication3/AvaloniaApplication3.Browser/AvaloniaApplication3.Browser.csproj" />
+        <entry key="AvaloniaApplication3/AvaloniaApplication3/Themes/Controls/UserControl.axaml" value="AvaloniaApplication3/AvaloniaApplication3.Browser/AvaloniaApplication3.Browser.csproj" />
+        <entry key="AvaloniaApplication3/AvaloniaApplication3/Themes/Index.axaml" value="AvaloniaApplication3/AvaloniaApplication3.Browser/AvaloniaApplication3.Browser.csproj" />
+        <entry key="AvaloniaApplication3/AvaloniaApplication3/Themes/Styles/AppWindow.axaml" value="AvaloniaApplication3/AvaloniaApplication3.Browser/AvaloniaApplication3.Browser.csproj" />
+        <entry key="AvaloniaApplication3/AvaloniaApplication3/Themes/Styles/UserControl.axaml" value="AvaloniaApplication3/AvaloniaApplication3.Browser/AvaloniaApplication3.Browser.csproj" />
+        <entry key="AvaloniaApplication3/AvaloniaApplication3/Views/LoginPage.axaml" value="AvaloniaApplication3/AvaloniaApplication3.Browser/AvaloniaApplication3.Browser.csproj" />
+        <entry key="AvaloniaApplication3/AvaloniaApplication3/Views/MainView.axaml" value="AvaloniaApplication3/AvaloniaApplication3.Browser/AvaloniaApplication3.Browser.csproj" />
+        <entry key="AvaloniaApplication3/AvaloniaApplication3/Views/MainWindow.axaml" value="AvaloniaApplication3/AvaloniaApplication3.Browser/AvaloniaApplication3.Browser.csproj" />
+        <entry key="AvaloniaApplication3/AvaloniaApplication3/Views/RegisterPage.axaml" value="AvaloniaApplication3/AvaloniaApplication3.Browser/AvaloniaApplication3.Browser.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
